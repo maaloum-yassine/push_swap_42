@@ -2,6 +2,8 @@
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="Push_swap 42 project badge"/>
 </p>
 
+# Push_swap
+
 ## Description
 **Push_swap** is a project from 42 School that consists of sorting a stack of numbers using a limited set of operations and a second stack. The goal is to sort the numbers with the minimum number of moves.
 
@@ -70,16 +72,6 @@ Then, enter the operations manually or pipe them from `push_swap`:
 ```sh
 ./push_swap 3 2 1 | ./checker 3 2 1
 ```
-
-## Visual Representation
-Here are images showing how the sorting works step by step:
-
-1. **Initial state:**
-   ![Step 1](https://upload.wikimedia.org/wikipedia/commons/3/37/Tower_of_Hanoi_4.gif)
-2. **During sorting:**
-   ![Step 2](https://upload.wikimedia.org/wikipedia/commons/6/60/Tower_of_Hanoi_4-2.gif)
-3. **Final state:**
-   ![Step 3](https://upload.wikimedia.org/wikipedia/commons/8/8d/Tower_of_Hanoi_4-3.gif)
 
 ## Restrictions
 - No use of standard sorting functions
